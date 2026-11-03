@@ -7,8 +7,8 @@ I direct AI coding agents to build my own tools, including my portfolio site and
 ## Projects
 
 - [Dial](https://github.com/esquivj/dial) is a native macOS menu bar app for Spotify. It turns your listening history into a private music memory device, with a pixel pet that grows as you listen.
-- [Personal site](PERSONAL_SITE_URL) is my portfolio. I built it with Astro.
+- [Personal site](https://juanesquivel.xyz) is my portfolio. I built it with Astro.
 
 ## Find me
 
-[X](https://x.com/0xCadena) · [LinkedIn](LINKEDIN_URL)
+[X](https://x.com/0xCadena) · [LinkedIn](https://www.linkedin.com/in/esquivj/)
